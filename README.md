@@ -1,7 +1,5 @@
 # Kinematis 3 Roda dengan Python
 
----
-
 ## Tentang
 Program robot kinematis 3 roda.
 
